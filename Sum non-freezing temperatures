@@ -1,0 +1,14 @@
+/**
+ * @param {array} temperatures
+ */
+function sumNonFreezingTemperatures(temperatures) {
+         let sum  = 0
+         temperatures.forEach(function(temperatures) {
+              if (temperatures >= 0) {
+                  sum = sum + temperature
+                  }
+              })
+              return sum
+         }
+         
+
